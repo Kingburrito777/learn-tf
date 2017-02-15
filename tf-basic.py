@@ -83,3 +83,5 @@ correct_prediction = tf.equal(tf.argmax(y,1), tf.argmax(y_,1))
 accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 # now we can print the accuracy on the testing data
 print(accuracy.eval(feed_dict={x: mnist.test.images, y_: mnist.test.labels}))
+
+# go to the next file to see a more accurate representation

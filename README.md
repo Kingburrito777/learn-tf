@@ -7,3 +7,6 @@ A heavily commented tensorflow application to explain what's going on.
 Using python 3 launch 
 
 	python3 learn-tf/tf-basic.py
+	python3 learn-tf/tf-basic-optimized.py
+
+depending on which one you are learning about.

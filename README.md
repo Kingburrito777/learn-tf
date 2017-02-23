@@ -10,3 +10,12 @@ Using python 3 launch
 	python3 learn-tf/tf-basic-optimized.py
 
 depending on which one you are learning about.
+
+# Mandelbrot set
+Check out the mandelbrot set in ipython with the following 
+	cd '/directory/with/files'
+	jupyter notebook
+Navigate to mandelbrot.ipynb
+and run by choosing 
+- "Cell->Run All"
+- Change the values listed in the comments and see the difference

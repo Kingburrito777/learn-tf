@@ -1,5 +1,6 @@
 # learn-tf
 A heavily commented tensorflow application to explain what's going on. 
+In our case it's the basic MNIST data set, for classifying handwritten numbers
 # Usage:
 - To get to understand tensorflow and its large packages 
 - Helping beginners with creating and launching their own tensorflow applications
